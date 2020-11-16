@@ -36,6 +36,8 @@
 
 {{if(isBlank(cells['subject_topic_3'].value), '', '<subject' + if(isBlank(cells['subject_topic_3_URI'].value), '>', ' authority="lcsh" valueURI="' + cells['subject_topic_3_URI'].value + '">') + '<topic>' + cells['subject_topic_3'].value + '</topic></subject>')}}
 
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></subject>
+
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
