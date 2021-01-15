@@ -17,9 +17,21 @@
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300220572">pamphlets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n90646627">
+      <name>
+         <namePart>Tennessee Volunteers (Football team)</namePart>
+      </name>
+   </subject>
+   <subject valueURI="http://id.loc.gov/authorities/names/n80003889"
+            authority="naf">
+      <name>
+         <namePart>University of Tennessee, Knoxville</namePart>
+      </name>
+   </subject>
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85050405">
       <topic>Football</topic>
@@ -27,6 +39,9 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
+   </subject>
+   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q6879748">
+      <topic>Missouri Tigers</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>
@@ -40,7 +55,6 @@
    <recordInfo>
       <recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource>
    </recordInfo>
-   <note>(2013- ) Butch Jones</note>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
 </mods>
