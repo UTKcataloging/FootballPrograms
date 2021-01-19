@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject valueURI="https://www.wikidata.org/wiki/Q6267192" authority="wikidata">
+   <subject valueURI="https://www.wikidata.org/entity/Q6267192"
+            authority="wikidata">
       <name>
          <namePart>Johnny Majors</namePart>
       </name>
@@ -45,7 +46,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7199341">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7199341">
       <topic>Pittsburgh Panthers</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

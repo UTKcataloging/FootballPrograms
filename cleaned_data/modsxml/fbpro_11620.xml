@@ -40,7 +40,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q5461394">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q5461394">
       <topic>Florida Gators</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

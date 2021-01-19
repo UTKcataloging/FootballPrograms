@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject valueURI="https://www.wikidata.org/wiki/Q3826815" authority="wikidata">
+   <subject valueURI="https://www.wikidata.org/entity/Q3826815"
+            authority="wikidata">
       <name>
          <namePart>Lane Kiffin</namePart>
       </name>

@@ -40,7 +40,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q5547838">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q5547838">
       <topic>Georgia Tech Yellow Jackets</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

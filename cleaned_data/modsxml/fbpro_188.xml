@@ -40,7 +40,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q7085897">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q7085897">
       <topic>Ole Miss Rebels</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

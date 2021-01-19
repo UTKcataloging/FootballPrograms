@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject valueURI="https://www.wikidata.org/wiki/Q4908058" authority="wikidata">
+   <subject valueURI="https://www.wikidata.org/entity/Q4908058"
+            authority="wikidata">
       <name>
          <namePart>Bill Battle</namePart>
       </name>
@@ -46,7 +47,7 @@
       <topic>College sports</topic>
    </subject>
    <subject authority="wikidata"
-            valueURI="https://www.wikidata.org/wiki/Q104733546">
+            valueURI="https://www.wikidata.org/entity/Q104733546">
       <topic>UC Santa Barbara Gauchos</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

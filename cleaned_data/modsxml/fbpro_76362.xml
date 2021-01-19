@@ -40,7 +40,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q4823224">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q4823224">
       <topic>Austin Peay Governors
 </topic>
    </subject>

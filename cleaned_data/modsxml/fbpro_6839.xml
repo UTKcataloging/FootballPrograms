@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject valueURI="https://www.wikidata.org/wiki/Q7348024" authority="wikidata">
+   <subject valueURI="https://www.wikidata.org/entity/Q7348024"
+            authority="wikidata">
       <name>
          <namePart>Robert Neyland</namePart>
       </name>
@@ -45,7 +46,8 @@
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
    </subject>
-   <subject authority="wikidata" valueURI="https://www.wikidata.org/wiki/Q6781508">
+   <subject authority="wikidata"
+            valueURI="https://www.wikidata.org/entity/Q6781508">
       <topic>Maryland Terrapins</topic>
    </subject>
    <typeOfResource>text</typeOfResource>

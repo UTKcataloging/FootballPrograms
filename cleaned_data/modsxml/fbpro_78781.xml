@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject valueURI="https://www.wikidata.org/wiki/Q5261924" authority="wikidata">
+   <subject valueURI="https://www.wikidata.org/entity/Q5261924"
+            authority="wikidata">
       <name>
          <namePart>Derek Dooley</namePart>
       </name>
