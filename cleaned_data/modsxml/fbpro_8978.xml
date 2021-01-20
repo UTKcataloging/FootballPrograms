@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1946 Football Program - UT vs Wake Forest</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Wake Forest Demon Deacons published in 1946. The Vols were led by coach Robert Neyland during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1946-10-26</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q1463567">
       <topic>Wake Forest Demon Deacons</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

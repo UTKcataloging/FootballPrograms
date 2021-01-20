@@ -40,6 +40,8 @@
 
 {{if(isBlank(cells['subject_topic_4'].value), '', '<subject' + if(isBlank(cells['subject_topic_4_URI'].value), '>', ' authority="wikidata" valueURI="' + cells['subject_topic_4_URI'].value + '">') + '<topic>' + cells['subject_topic_4'].value + '</topic></subject>')}}
 
+<subject><topic>{{cells['subject_topic_5'].value}}</topic></subject>
+
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>

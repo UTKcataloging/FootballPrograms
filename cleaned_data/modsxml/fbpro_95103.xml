@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1958 Football Program - UT vs Alabama</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Alabama Crimson Tide published in 1958. The Vols were led by coach Bowden Wyatt during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1958-10-18</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q4705216">
       <topic>Alabama Crimson Tide</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

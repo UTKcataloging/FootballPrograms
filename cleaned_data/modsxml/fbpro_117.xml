@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1914 Football Program - UT vs Clemson</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Clemson Tigers published in 1914. The Vols were led by coach Zora Goodwin (Z.G.) Clevenger during this athletic season.</abstract>
    <originInfo>
       <dateCreated>1914-10-10</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q5131553">
       <topic>Clemson Tigers</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

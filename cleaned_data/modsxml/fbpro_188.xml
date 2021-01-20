@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1904 Football Program - UT vs Mississippi</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Ole Miss Rebels published in 1904. The Vols were led by coach Sax Crawford during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1904-11-12</dateCreated>
    </originInfo>
@@ -20,6 +20,12 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
+   <subject valueURI="https://www.wikidata.org/entity/Q7387419"
+            authority="wikidata">
+      <name>
+         <namePart>Sax Crawford</namePart>
+      </name>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n90646627">
       <name>
@@ -43,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q7085897">
       <topic>Ole Miss Rebels</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

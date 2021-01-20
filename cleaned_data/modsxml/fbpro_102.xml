@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1924 Football Program - UT vs Carson-Newman (non-IA)</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Carson-Newman Eagles published in 1924. The Vols were led by coach Mark Beal (M.B.) Banks during this athletic season.</abstract>
    <originInfo>
       <dateCreated>1924-10-18</dateCreated>
    </originInfo>
@@ -20,7 +20,8 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
-   <subject>
+   <subject valueURI="https://www.wikidata.org/entity/Q15030948"
+            authority="wikidata">
       <name>
          <namePart>Mark Beal (M.B.) Banks</namePart>
       </name>
@@ -48,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q104682345">
       <topic>Carson-Newman Eagles</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

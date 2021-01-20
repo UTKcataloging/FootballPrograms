@@ -9,7 +9,7 @@
    <titleInfo>
       <title>2013 Football Program - UT vs Western Kentucky</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Western Kentucky Hilltoppers published in 2013. The Vols were led by coach Butch Jones during this athletic season.</abstract>
    <originInfo>
       <dateCreated>2013-09-07</dateCreated>
    </originInfo>
@@ -20,6 +20,12 @@
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
       <internetMediaType>image/jpeg</internetMediaType>
    </physicalDescription>
+   <subject valueURI="https://www.wikidata.org/entity/Q5002395"
+            authority="wikidata">
+      <name>
+         <namePart>Butch Jones</namePart>
+      </name>
+   </subject>
    <subject authority="naf"
             valueURI="http://id.loc.gov/authorities/names/n90646627">
       <name>
@@ -43,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q7951979">
       <topic>Western Kentucky Hilltoppers</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

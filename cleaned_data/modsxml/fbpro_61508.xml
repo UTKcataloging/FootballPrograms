@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1995 Football Guide</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Volunteers football media guide published in 1995. The team was led by coach Phillip Fulmer during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1995-09-01</dateCreated>
    </originInfo>
@@ -45,6 +45,9 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85028338">
       <topic>College sports</topic>
+   </subject>
+   <subject>
+      <topic>Media guides</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

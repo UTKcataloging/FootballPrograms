@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1984 Football Program - UT vs Washington State</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Washington State Cougars published in 1984. The Vols were led by coach Johnny Majors during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1984-09-01</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q7972235">
       <topic>Washington State Cougars</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

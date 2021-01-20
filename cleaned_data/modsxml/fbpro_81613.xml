@@ -9,7 +9,7 @@
    <titleInfo>
       <title>2007 Football Program - UT vs Wisconsin (Outback Bowl)</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Wisconsin Badgers published in 2007. The Vols were led by coach Phillip Fulmer during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">2008-01-01</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q8027119">
       <topic>Wisconsin Badgers</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

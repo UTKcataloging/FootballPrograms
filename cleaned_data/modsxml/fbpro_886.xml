@@ -9,7 +9,7 @@
    <titleInfo>
       <title>1934 Football Program - UT vs Centre</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Game program of the Tennessee Volunteers versus the Centre Colonels published in 1934. The Vols were led by coach Robert Neyland during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">1934-09-29</dateCreated>
    </originInfo>
@@ -49,6 +49,9 @@
    <subject authority="wikidata"
             valueURI="https://www.wikidata.org/entity/Q5062248">
       <topic>Centre Colonels</topic>
+   </subject>
+   <subject>
+      <topic>Game programs</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

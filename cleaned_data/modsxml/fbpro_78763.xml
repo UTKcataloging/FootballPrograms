@@ -9,7 +9,7 @@
    <titleInfo>
       <title>2011 Football Spring Outlook</title>
    </titleInfo>
-   <abstract>Issued for The University of Tennessee, Knoxville Football Programs for all home and special bowl games. Each piece is issued as a program guide for the game.</abstract>
+   <abstract>Volunteers football data book published in 2011. The team was led by coach Derek Dooley during this athletic season.</abstract>
    <originInfo>
       <dateCreated encoding="edtf">2011-04-16</dateCreated>
    </originInfo>
@@ -41,6 +41,9 @@
    <subject authority="lcsh"
             valueURI="http://id.loc.gov/authorities/subjects/sh85050405">
       <topic>Football</topic>
+   </subject>
+   <subject>
+      <topic>Data books</topic>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>
