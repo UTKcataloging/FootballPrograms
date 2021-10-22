@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xlink="http://www.w3.org/1999/xlink" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-5.xsd"><mods>
+<identifier type="local">vols-football_2017-09-09</identifier>
+
+<titleInfo><title>2017 Football Program - UT vs Indiana State</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Indiana State Sycamores published in 2017. The Vols were led by coach Butch Jones during this athletic season.</abstract>
+
+<originInfo><dateIssued>2017-09-09</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>185 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q5002395" authority="wikidata"><name><namePart>Jones, Butch</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6023511" authority="wikidata"><name><namePart>Indiana State Sycamores football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2017-11-04</identifier>
+
+<titleInfo><title>2017 Football Program - UT vs Southern Miss</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Southern Miss Golden Eagles published in 2017. The Vols were led by coach Butch Jones during this athletic season.</abstract>
+
+<originInfo><dateIssued>2017-11-04</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q5002395" authority="wikidata"><name><namePart>Jones, Butch</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q7570145" authority="wikidata"><name><namePart>Southern Miss Golden Eagles football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-09-08</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs East Tennessee State</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the East Tennessee State Buccaneers published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-09-08</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q5329507" authority="wikidata"><name><namePart>East Tennessee State Buccaneers football </namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-09-15</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs UTEP</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the UTEP Miners published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-09-15</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q16155625" authority="wikidata"><name><namePart>UTEP Miners football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-09-22</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs Florida</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Florida Gators published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-09-22</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q5461394" authority="wikidata"><name><namePart>Florida Gators football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-10-20</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs Alabama</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Alabama Crimson Tide published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-10-20</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q4705216" authority="wikidata"><name><namePart>Alabama Crimson Tide football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-11-03</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs Charlotte</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Charlotte 49ers published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-11-03</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q16155388" authority="wikidata"><name><namePart>Charlotte 49ers football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-11-10</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs Kentucky</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Kentucky Wildcats published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-11-10</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6392427" authority="wikidata"><name><namePart>Kentucky Wildcats football </namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018-11-17</identifier>
+
+<titleInfo><title>2018 Football Program - UT vs Missouri</title></titleInfo>
+
+<abstract>Game program of the Tennessee Volunteers versus the Missouri Tigers published in 2018. The Vols were led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2018-11-17</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>184 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6879748" authority="wikidata"><name><namePart>Missouri Tigers football</namePart></name></subject>
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Game programs</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2018</identifier>
+
+<titleInfo><title>2018 Football Guide</title></titleInfo>
+
+<abstract>Volunteers football media guide published in 2018. The team was led by coach Jeremy Pruitt during this athletic season.
+</abstract>
+
+<originInfo><dateIssued>2018</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>426 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Media guides</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods><mods>
+<identifier type="local">vols-football_2019</identifier>
+
+<titleInfo><title>2019 Football Guide</title></titleInfo>
+
+<abstract>Volunteers football media guide published in 2019. The team was led by coach Jeremy Pruitt during this athletic season.</abstract>
+
+<originInfo><dateIssued>2019</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><extent>430 pages</extent></physicalDescription>
+
+<subject valueURI="http://www.wikidata.org/entity/Q6181794" authority="wikidata"><name><namePart>Pruitt, Jeremy</namePart></name></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n90646627"><name><namePart>Tennessee Volunteers (Football team)</namePart></name></subject>
+
+
+
+<subject valueURI="http://id.loc.gov/authorities/names/n80003889" authority="naf"><name><namePart>University of Tennessee, Knoxville</namePart></name></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85050405"><topic>Football</topic></subject>
+
+<subject><topic>Media guides</topic></subject>
+
+<subject authority="lcsh" valueURI="http://id.loc.gov/authorities/subjects/sh85028338"><topic>College sports</topic></subject>
+
+<typeOfResource>text</typeOfResource>
+
+<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+
+<location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
+
+<recordInfo><recordContentSource valueURI="http://id.loc.gov/authorities/names/n87808088">University of Tennessee, Knoxville. Libraries</recordContentSource></recordInfo>
+
+<accessCondition type="use and reproduction" xlink:href="http://rightsstatements.org/vocab/InC/1.0/">In Copyright</accessCondition>
+</mods></modsCollection>
