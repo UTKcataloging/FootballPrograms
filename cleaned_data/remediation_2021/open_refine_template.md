@@ -17,7 +17,7 @@
 
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 
-<originInfo><dateIssued>{{cells['date_text'].value}}</dateIssued><dateIssued encoding="edtf" keyDate="yes"></dateIssued></originInfo>
+<originInfo><dateIssued encoding="edtf" keyDate="yes">{{cells['date_text'].value}}</dateIssued></originInfo>
 
 <physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><extent>{{cells["extent"].value}}</extent></physicalDescription>
 
@@ -37,7 +37,7 @@
 
 <typeOfResource>text</typeOfResource>
 
-<relatedItem displayLabel="University of Tennessee Volunteers Football Media Guides" type="host"><titleInfo><title></title></titleInfo></relatedItem>
+<relatedItem displayLabel="Project" type="host"><titleInfo><title>"University of Tennessee Volunteers Football Media Guides"</title></titleInfo></relatedItem>
 
 <location><physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation></location>
 
