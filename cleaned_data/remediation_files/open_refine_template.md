@@ -19,12 +19,12 @@
 
 {{if(isBlank(cells["abstract"].value),'', '<abstract>' + cells['abstract'].value + '</abstract>')}}
 
-{{if(isBlank(cells["dateCreated"].value),'','<originInfo><dateCreated>' + cells['dateCreated'].value + '</dateCreated></originInfo>')}}
-{{if(isBlank(cells["dateCreated_edtf"].value),'','<originInfo><dateCreated encoding="edtf">' + cells['dateCreated_edtf'].value + '</dateCreated></originInfo>')}}
+{{if(isBlank(cells["dateCreated"].value),'','<originInfo><dateIssued>' + cells['dateCreated'].value + '</dateIssued></originInfo>')}}
+{{if(isBlank(cells["dateCreated_edtf"].value),'','<originInfo><dateIssued encoding="edtf">' + cells['dateCreated_edtf'].value + '</dateIssued></originInfo>')}}
 
 <language><languageTerm authority="iso639-2b" type="text">{{cells['language'].value}}</languageTerm></language>
 
-<physicalDescription><form authority="aat" valueURI="{{cells['form_URI'].value}}">{{cells['form'].value}}</form><internetMediaType>{{cells['internetMediaType'].value}}</internetMediaType></physicalDescription>
+<physicalDescription><form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form><form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form></physicalDescription>
 
 {{if(isBlank(cells['subject_name'].value), '', '<subject'+ if(isBlank(cells['subject_name_URI'].value), '', ' valueURI="' + cells['subject_name_URI'].value + '"' + ' authority="wikidata"') + '><name><namePart>' + cells['subject_name'].value + '</namePart></name></subject>')}}
 
@@ -41,6 +41,8 @@
 {{if(isBlank(cells['subject_topic_4'].value), '', '<subject' + if(isBlank(cells['subject_topic_4_URI'].value), '>', ' authority="wikidata" valueURI="' + cells['subject_topic_4_URI'].value + '">') + '<topic>' + cells['subject_topic_4'].value + '</topic></subject>')}}
 
 <subject><topic>{{cells['subject_topic_5'].value}}</topic></subject>
+
+<subject authority="naf" valueURI="http://id.loc.gov/authorities/names/n79109786"><geographic>Knoxville (Tenn.)</geographic><cartographics><coordinates>35.96064, -83.92074</coordinates></cartographics></subject>
 
 <typeOfResource>{{cells['typeOfResource'].value}}</typeOfResource>
 
