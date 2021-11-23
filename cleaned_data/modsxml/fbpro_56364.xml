@@ -11,14 +11,14 @@
    </titleInfo>
    <abstract>Volunteers football data book published in 1999. The team was led by coach Phillip Fulmer during this athletic season.</abstract>
    <originInfo>
-      <dateCreated encoding="edtf">1999-04-24</dateCreated>
+      <dateIssued encoding="edtf">1999-04-24</dateIssued>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
    </physicalDescription>
    <subject valueURI="https://www.wikidata.org/entity/Q7185676"
             authority="wikidata">
@@ -44,6 +44,13 @@
    </subject>
    <subject>
       <topic>Data books</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>

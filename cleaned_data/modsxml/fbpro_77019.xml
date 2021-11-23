@@ -11,14 +11,14 @@
    </titleInfo>
    <abstract>Game program of the Tennessee Volunteers versus the Georgia State Panthers published in 2012. The Vols were led by coach Derek Dooley during this athletic season.</abstract>
    <originInfo>
-      <dateCreated encoding="edtf">2012-09-08</dateCreated>
+      <dateIssued encoding="edtf">2012-09-08</dateIssued>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
    <physicalDescription>
       <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <internetMediaType>image/jpeg</internetMediaType>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
    </physicalDescription>
    <subject valueURI="https://www.wikidata.org/entity/Q5261924"
             authority="wikidata">
@@ -52,6 +52,13 @@
    </subject>
    <subject>
       <topic>Game programs</topic>
+   </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
    </subject>
    <typeOfResource>text</typeOfResource>
    <location>
