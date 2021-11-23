@@ -11,11 +11,15 @@
    </titleInfo>
    <abstract>Game program of the Tennessee Volunteers versus the Ole Miss Rebels published in 1929. The Vols were led by coach Robert Neyland during this athletic season.</abstract>
    <originInfo>
-      <dateCreated>1929-10-12</dateCreated>
+      <dateIssued>1929-10-12</dateIssued>
    </originInfo>
    <language>
       <languageTerm authority="iso639-2b" type="text">English</languageTerm>
    </language>
+   <physicalDescription>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
+      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
+   </physicalDescription>
    <subject valueURI="https://www.wikidata.org/entity/Q7348024"
             authority="wikidata">
       <name>
@@ -31,7 +35,7 @@
    <subject valueURI="http://id.loc.gov/authorities/names/n80003887"
             authority="naf">
       <name>
-         <namePart>University of Tennessee, (Knoxville campus)</namePart>
+         <namePart>University of Tennessee (Knoxville campus)</namePart>
       </name>
    </subject>
    <subject authority="lcsh"
@@ -49,6 +53,13 @@
    <subject>
       <topic>Game programs</topic>
    </subject>
+   <subject authority="naf"
+            valueURI="http://id.loc.gov/authorities/names/n79109786">
+      <geographic>Knoxville (Tenn.)</geographic>
+      <cartographics>
+         <coordinates>35.96064, -83.92074</coordinates>
+      </cartographics>
+   </subject>
    <typeOfResource>text</typeOfResource>
    <location>
       <physicalLocation valueURI="http://id.loc.gov/authorities/names/no2014027633">University of Tennessee, Knoxville. Special Collections</physicalLocation>
@@ -63,15 +74,4 @@
    </recordInfo>
    <accessCondition type="use and reproduction"
                     xlink:href="http://rightsstatements.org/vocab/NoC-US/1.0/">No Copyright - United States</accessCondition>
-   <physicalDescription>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300311670">booklets</form>
-      <form authority="aat" valueURI="http://vocab.getty.edu/aat/300026657">periodicals</form>
-   </physicalDescription>
-   <subject authority="naf"
-            valueURI="http://id.loc.gov/authorities/names/n79109786">
-      <geographic>Knoxville (Tenn.)</geographic>
-      <cartographics>
-         <coordinates>35.96064, -83.92074</coordinates>
-      </cartographics>
-   </subject>
 </mods>
